@@ -47,6 +47,9 @@ input[input="file"]{
 
 
 }
+.resumeinfo{
+  background-color: pink;
+}
 input[type="file"]::file.selector-button{
     background-color: pink;
     cursor: pointer;
